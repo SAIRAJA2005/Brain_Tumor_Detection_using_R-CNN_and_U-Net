@@ -2,10 +2,7 @@
 
 
 
-## U NET
-
-# 🧠 Brain Tumor Detection & Segmentation  
-## Full Pipeline – From Zero to Trained Model
+## U NET Full Pipeline – From Zero to Trained Model
 
 This guide walks you step-by-step through:
 
